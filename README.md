@@ -38,15 +38,22 @@ The dataset "Impact_of_Mobile_Phone_on_Students_Health.csv" investigates how mob
 We are exclusively using this dataset as provided on the project assignment page without merging any other datasets. This comprehensive data enables a thorough analysis of the relationship between mobile phone use and academic performance.
 
 ## Data Understanding and EDA
-The below visualizations provide insights into how mobile phone use impacts students' academic performance and health. They focus on the most prevalent activities, health risk knowledge, and precautions, gender distribution of mobile operating system usage, the relationship between performance impact and symptom frequency, and the circumstances in which mobile phones are most distracting.
+The below visualizations give useful information about how mobile phone use impacts students academic performance and health. They focus on the most prevalent activities, health risk knowledge and precautions, gender distribution of mobile operating system usage, the relationship between performance impact and symptom frequency, and the circumstances in which mobile phones are most distracting. Understanding these trends can aid in the development of methods to maximize mobile phone use for educational purposes while minimizing negative effects on health and performance.
 
-### 1. Mobile Phone Activities for Educational Purposes
+
+### 1. Mobie Phone Activities for Educational Purposes
+A bar chart showing the frequency of different mobile phone activities used for educational purposes.
+
 ![Mobile Phone Activities for Educational Purposes](Visualization1.jpg)
 
 ### 2. Health Risks Awareness vs. Health Precautions Taken
+A grouped bar chart comparing students' awareness of health risks with the precautions they take.
+
 ![Health Risks Awareness vs. Health Precautions Taken](Visualization2.jpg)
 
 ### 3. Usage Distraction During Different Activities
+A bar chart showing the count of students distracted by mobile phone usage during various activities.
+
 ![Usage Distraction During Different Activities](Visualization3.jpg)
 
 ## Data Preparation
