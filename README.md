@@ -56,12 +56,4 @@ A bar chart showing the count of students distracted by mobile phone usage durin
 
 ![Usage Distraction During Different Activities](Visualization3.jpg)
 
-## Data Preparation
-As of now, we have cleaned the data as described below:
-- **Missing Values**: Checked for any missing entries in columns like "Daily usages." Addressed these by filling in missing data with the most common value or removing incomplete rows.
-- **Inconsistent Data**: Ensured consistent responses in categorical fields. For example, standardized entries in "Performance impact" to be uniform (e.g., "Agree", "Neutral", "Strongly agree").
-
-We also formatted the data as follows:
-- **Data Types**: Converted columns to appropriate formats (e.g., ages to integers, daily usage to floats) for accurate analysis.
-- **Categorical Encoding**: Transformed categorical responses into numerical values or dummy variables for easier analysis (e.g., converting "Gender" to binary values).
-
+Further steps of modeling, evaluation and results of this project are in Deliverable2.ipynb file.
